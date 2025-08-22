@@ -79,7 +79,7 @@
 
 <h3 align="center">Editors & AI</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/Trae%20AI-FF4A36?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Trae%20AI-brightgreen?style=for-the-badge&logo=openai&logoColor=brightgreen&labelColor=000000" />
   <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
   <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" />
   <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" />
