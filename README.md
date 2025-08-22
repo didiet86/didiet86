@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Didiet  
+# 👋 Hi, I'm Adityo Guni Waluyo / Didiet  
 
 Saya terbiasa bekerja di dunia **programming, DevOps, dan sistem administrator**.  
 Sehari-hari saya mengutak-atik backend service, database, sampai server agar tetap rapi dan berjalan lancar.  
