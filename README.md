@@ -1,9 +1,8 @@
-# 👋 Hi, I'm Didiet  / Adityo Guni Waluyo
+# 👋 Hi, I'm Didiet  
 
-🚀 Programmer | 🛠️ DevOps | 🖥️ SysAdmin  
-
-Saya seorang engineer yang suka membangun sistem dari nol — mulai dari **backend API dengan FastAPI**, **database PostgreSQL**, sampai **infrastruktur container & monitoring**.  
-Fokus saya adalah membuat arsitektur yang **modular, scalable, dan fleksibel**.
+Saya terbiasa bekerja di dunia **programming, DevOps, dan sistem administrator**.  
+Sehari-hari saya mengutak-atik backend service, database, sampai server agar tetap rapi dan berjalan lancar.  
+Saya suka membangun sesuatu yang sederhana tapi bisa dipakai dalam jangka panjang.  
 
 ---
 
@@ -30,16 +29,22 @@ Fokus saya adalah membuat arsitektur yang **modular, scalable, dan fleksibel**.
 
 ---
 
-## 📂 Projects & Learning
+## 📂 Selected Projects
 
-🔹 [FastAPI Playground](https://github.com/didiet86/fastapi)  
-Belajar membangun REST API modular dengan FastAPI + PostgreSQL.  
+🔹 [**FastAPI Playground**](https://github.com/didiet86/fastapi)  
+Eksperimen membangun REST API dengan FastAPI dan PostgreSQL.  
 
-🔹 HRIS Modular (Work in Progress)  
-Membangun sistem HRIS (Employee, Attendance, Leave, Shift) berbasis PostgreSQL + FastAPI.  
+🔹 [**HRIS Modular**](https://github.com/didiet86/hris) *(Private)*  
+Proyek internal untuk sistem HRIS (Employee, Attendance, Leave, Shift).  
 
-🔹 Auth Service with JWT & RBAC (Planned)  
-Service login modular dengan JWT, refresh token, ACL, dan role-based access control.  
+🔹 [**Auth Service**](https://github.com/didiet86/auth-service) *(Private)*  
+Layanan otentikasi modular dengan JWT, refresh token, ACL, dan RBAC.  
+
+🔹 [**Dockerized Laravel**](https://github.com/didiet86/docker-laravel)  
+Setup Laravel dengan Docker (php-fpm alpine + nginx).  
+
+🔹 [**DevOps Monitoring Stack**](https://github.com/didiet86/devops-monitoring)  
+Stack monitoring dengan Prometheus, Grafana, Loki, dan Promtail.  
 
 ---
 
@@ -57,21 +62,12 @@ Service login modular dengan JWT, refresh token, ACL, dan role-based access cont
 
 ---
 
-## 🚀 Currently Learning
-
-- Microservices architecture with FastAPI + PostgreSQL  
-- DevOps workflow: Docker, GitHub Actions, CI/CD  
-- Observability stack: Prometheus + Grafana + Loki  
-- Scaling backend systems with async Python  
-
----
-
-## 🌐 Let's Connect
+## 🌐 Connect
 
 - 💼 LinkedIn: [linkedin.com/in/username](#)  
 - 📧 Email: your@email.com  
-- 🌍 Blog/Website: [yourdomain.com](#)  
+- 🌍 Website: [yourdomain.com](#)  
 
 ---
 
-✨ *Always learning, always building.*
+✨ *Belajar dari pengalaman sehari-hari, dan membangun sesuatu yang bisa bermanfaat untuk jangka panjang.*
