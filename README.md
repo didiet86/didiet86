@@ -63,10 +63,8 @@ Stack monitoring dengan Prometheus, Grafana, Loki, dan Promtail.
 ---
 
 ## 🌐 Connect
-
-- 💼 LinkedIn: [linkedin.com/in/username](#)  
-- 📧 Email: your@email.com  
-- 🌍 Website: [yourdomain.com](#)  
+- 📧 Email: adityogw86@gmail.com  
+- 🌍 Website: [adityo.web.id](#)  
 
 ---
 
