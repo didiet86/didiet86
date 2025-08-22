@@ -1,37 +1,67 @@
-<h1 align="center">👋 Hi, I'm Adityo Guni Waluyo (Didiet)</h1>
-
+<!-- Header dengan animasi typing -->
 <p align="center">
-  🚀 Programmer &nbsp; | &nbsp; 🛠️ DevOps &nbsp; | &nbsp; 🖥️ SysAdmin  
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3500&color=00F7FF&center=true&vCenter=true&width=700&lines=👋+Hi%2C+I'm+Adityo+Guni+Waluyo+(Didiet);Programmer+%7C+DevOps+%7C+SysAdmin;Exploring+AI+%26+RAG+Solutions" alt="Typing SVG" />
+  </a>
 </p>
 
 <p align="center">
   Saya terbiasa bekerja di dunia <b>programming, DevOps, dan sistem administrator</b>.  
   Sehari-hari saya mengutak-atik backend service, database, sampai server agar tetap rapi dan berjalan lancar.  
-  Saya suka membangun sesuatu yang sederhana tapi bisa dipakai dalam jangka panjang.  
+  Sekarang juga fokus mengeksplorasi <b>AI, RAG, dan Prompt Engineering</b> untuk solusi nyata.  
 </p>
 
 ---
 
 ## 🧰 Tech Stack
 
-**Languages**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
+<p align="center">
+  
+  <!-- Languages -->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <br/>
 
-**Frameworks & Tools**  
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![Traefik](https://img.shields.io/badge/Traefik-24A1C1?style=for-the-badge&logo=traefikproxy&logoColor=white)
+  <!-- Databases -->
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" />
+  <br/>
 
-**Monitoring & Observability**  
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![Loki](https://img.shields.io/badge/Loki-4A90E2?style=for-the-badge&logo=grafana&logoColor=white)
+  <!-- Web & CMS -->
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
+  <img src="https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white" />
+  <br/>
+
+  <!-- Frameworks & Tools -->
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
+  <img src="https://img.shields.io/badge/Traefik-24A1C1?style=for-the-badge&logo=traefikproxy&logoColor=white" />
+  <br/>
+
+  <!-- Monitoring & Observability -->
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
+  <img src="https://img.shields.io/badge/Loki-4A90E2?style=for-the-badge&logo=grafana&logoColor=white" />
+  <br/>
+
+  <!-- Editors & AI -->
+  <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" />
+  <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude%20AI-222222?style=for-the-badge&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Qwen-FF6F00?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/DeepSeek-0A0A0A?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-8A2BE2?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAG%20(Retrieval%20Augmented%20Generation)-FF1493?style=for-the-badge&logoColor=white" />
+
+</p>
 
 ---
 
@@ -74,8 +104,8 @@
 
 ## 🌐 Connect with Me
 <p align="center">
-  📧 <a href="mailto:adityogw86@gmail.com">Email</a> &nbsp; | &nbsp;
-  🌍 <a href="https://adityo.web.id">Website</a>
+  📧 <a href="mailto:adityogw86@gmail.com">adityogw86@gmail.com</a> &nbsp; | &nbsp;
+  🌍 <a href="https://adityo.web.id">adityo.web.id</a>
 </p>
 
 ---
