@@ -1,7 +1,7 @@
 <!-- Header dengan animasi typing -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3500&color=00F7FF&center=true&vCenter=true&width=700&lines=👋+Hi%2C+I'm+Adityo+Guni+Waluyo+(Didiet);Programmer+%7C+DevOps+%7C+SysAdmin;Exploring+AI+%26+RAG+Solutions" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3500&center=true&vCenter=true&width=700&lines=👋+Hi%2C+I'm+Adityo+Guni+Waluyo+(Didiet);Programmer+%7C+DevOps+%7C+SysAdmin;Exploring+AI+%26+RAG+Solutions" alt="Typing SVG" />
   </a>
 </p>
 
